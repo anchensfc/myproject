@@ -3,6 +3,8 @@ package com.sfc.pojo;
 public class Student {
     private int id;
     private String name;
+    //新增属性
+    private String address;
 
     public int getId() {
         return id;
